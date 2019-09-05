@@ -1,0 +1,15 @@
+.cell{
+    width: 5rem;
+    height: 5rem;
+    background-color: bisque;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    cursor: pointer
+}
+
+.selected{
+    background-color: black
+}
